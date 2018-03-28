@@ -20,4 +20,4 @@ Escribe una función que toma dos argumentos, el nombre de tu amiga y la cantida
 
 ## Diagrama de Flujo
 
-![Diagrama de flujo del problema SCOREKEEPER](assets/img/diagramaFlujo.png)
+![Diagrama de flujo del problema SCOREKEEPER](assets/image/diagramaFlujo.png)
